@@ -1,0 +1,28 @@
+.nameBox {
+    background-color:antiquewhite;
+}
+#logo {
+    width: 90px;
+    height: 90px;    
+}
+.BigBox {
+    background-color: lightgoldenrodyellow;
+    border: 1px solid lightgoldenrodyellow;
+}
+.Edu {
+    background-color: antiquewhite;
+}
+.Ba {
+    background-color:aquamarine;
+}
+.Pro {
+    background-color: lightblue;
+    border: 1px solid lightblue
+}
+.Skill {
+    background-color: lightgray;
+    border: 1px solid lightgray;
+}
+.ex {
+    background-color: white;
+}
